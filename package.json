@@ -1,0 +1,11 @@
+{
+  "name": "adagentos-frontend",
+  "version": "1.0.0",
+  "description": "AI Performance Analyst for Video Ad Campaigns",
+  "scripts": {
+    "start": "npx serve -s . -p 3001"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
